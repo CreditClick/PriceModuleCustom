@@ -26,7 +26,9 @@ product offered costs at least € 250 and up to € 1,000.
 
 Our module is available under the BSD-2-Clause. See the [LICENSE](https://github.com/CreditClick/PriceModuleCustom/blob/master/LICENSE) file for more information.
 
-## Installation
+## Installation & Example
+
+Please see [example.html](https://github.com/CreditClick/PriceModuleCustom/blob/master/example.html).
 
 A more detailed installation and configuration instruction is available [here](https://github.com/CreditClick/PriceModuleCustom/wiki).
 
