@@ -30,7 +30,7 @@ Our module is available under the BSD-2-Clause. See the [LICENSE](https://github
 
 Please see [example.html](https://github.com/CreditClick/PriceModuleCustom/blob/master/example.html).
 
-A more detailed installation and configuration instruction is available [here](https://github.com/CreditClick/PriceModuleCustom/wiki).
+A detailed installation and configuration instruction is available [here](https://github.com/CreditClick/PriceModuleCustom/wiki).
 
 ## Issues
 
